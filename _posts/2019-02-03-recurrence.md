@@ -1,6 +1,6 @@
 ---
-title: The Hare And The Rabbit (Reimangines)
-background: https://ibb.co/K01Rqph
+title: The Hare And The Rabbit (Reimagined)
+background: https://i.ibb.co/SsLWn4y/rabit.jpg
 layout: post
 subtitle: The tale as old as time itself.
 artist: https://pixabay.com/users/gorkhs-268986/
