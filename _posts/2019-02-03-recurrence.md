@@ -1,9 +1,9 @@
 ---
-title: Recurrence
-background: https://cdnb.artstation.com/p/assets/images/images/007/095/957/large/mark-chang-lab3.jpg
+title: The Hare And The Rabbit (Reimangines)
+background: https://ibb.co/K01Rqph
 layout: post
-subtitle: A minion breaks the code
-artist: artstation.com/equinoz
+subtitle: The tale as old as time itself.
+artist: https://pixabay.com/users/gorkhs-268986/
 ---
 
 They work all day, they work all night.
