@@ -1,15 +1,14 @@
-title:             Square Zero
-email:             sssurajsuraj@gmail.com
-description:       Silent Observations
-author:            J
+title:             HairlessCookie
+email:             hairlesscookies@gmail.com
+description:       Satirical stories, some songs and probably a poem if I'm low enough
+author:            HairlessCookie
 #url:               "localhost:4000"
-url:               "http://squarezero.github.io/"
+url:               "http://hairlesscookie.github.io/"
 baseurl:
 
-# Social Profiles
-#twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
-#facebook_username: StartBootstrap
+Social Profiles
+github_username:   HairlessCookie
+instagram_username: hairlesscookie
 
 # Build settings
 markdown:          kramdown
