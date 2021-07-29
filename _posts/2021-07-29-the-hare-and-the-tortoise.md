@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "he Hare And The Tortoise (Reimagined)"
+title: "The Hare And The Tortoise (Reimagined)"
 subtitle: "This is the post subtitle."
 date: 2021-07-29 10:58:18
 background: https://cdna.artstation.com/p/assets/images/images/002/187/704/large/teun-van-der-zalm-ncu001-13d.jpg
