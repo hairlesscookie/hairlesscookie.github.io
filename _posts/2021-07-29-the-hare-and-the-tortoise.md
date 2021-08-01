@@ -41,7 +41,7 @@ The end.
 
 
 
-Moral of the story
+Moral of the story: 
 Slow and steady wins the race,
 and probably don't stop your pills before the prescription ends.
 Honorable mention, homophobia kills. 
