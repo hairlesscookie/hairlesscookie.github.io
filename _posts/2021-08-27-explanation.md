@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Explanation (Not a Story)"
+title: "An Explanation (Rambles)"
 subtitle: "About my stories."
 date: 2021-08-27 10:08:18
 background: https://cdn.pixabay.com/photo/2021/08/23/17/53/cat-6568422_960_720.jpg
