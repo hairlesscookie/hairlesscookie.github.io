@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DON’T F**K WITH CATS"
-subtitle: "Hunting An --XInternetX-- Killer"
+subtitle: "Hunting An <strike>Internet</strike> Killer"
 date: 2021-08-15 05:10:18
 background: https://u.cubeupload.com/cookie/cat12856341920.png
 artist: https://pixabay.com/users/cocoparisienne-127419/
