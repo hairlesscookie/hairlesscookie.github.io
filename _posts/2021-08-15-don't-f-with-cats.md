@@ -3,8 +3,8 @@ layout: post
 title: "DON’T F**K WITH CATS"
 subtitle: "Hunting An --XInternetX-- Killer"
 date: 2021-08-15 05:10:18
-background: https://cdna.artstation.com/p/assets/images/images/002/187/704/large/teun-van-der-zalm-ncu001-13d.jpg
-artist: artstation.com/teunvanderzalm
+background: https://u.cubeupload.com/cookie/cat12856341920.png
+artist: https://pixabay.com/users/cocoparisienne-127419/
 ---
 
 Once upon a time, two cats, Sir Pierre Louis Courvoiser and Timmy lived in the magnificent village of Vitrobéliard, the heart of France. Ever since the fall of Louis XVI (’s head lol), life hadn’t been the same for Sir Pierre Louis Courvoiser. Earlier, living in mansions with his self obsessed asshole of an owner, Sir Pierre Louis Courvoiser and Timmy were now forced to live off scraps. 
