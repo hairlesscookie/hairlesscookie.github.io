@@ -4,7 +4,7 @@ title: "The Hare And The Tortoise (Reimagined)"
 subtitle: "This is the post subtitle."
 date: 2021-07-29 10:58:18
 background: https://u.cubeupload.com/cookie/rabit.jpg
-artist: https://pixabay.com/users/gorkhs-268986/
+artist: pixabay.com/users/gorkhs-268986/
 ---
 
 Once upon a time, a toroise and hare lived together in a jungle. They were good friends. The tortoise was known for his slow speed, while the hare was so fast he reached Dandi before the Dandi march even began. 
