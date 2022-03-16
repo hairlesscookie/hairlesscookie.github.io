@@ -22,4 +22,4 @@ Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https:/
 
 ## HairlessCookie: 
 
-I'm not posting the newer stories to this repo, they'll be available on https://hairlesscookie.github.io/fishappoinment soon.
+I'm not posting the newer stories to this repo, they'll be available on https://hairlesscookie.github.io/fishappointment/ soon.
